@@ -1,0 +1,1 @@
+import React from 'react'; function VenueSelection() { return (<div className="text-center mt-5"><h2>Select Venue Page</h2></div>); } export default VenueSelection;

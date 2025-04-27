@@ -1,0 +1,1 @@
+import React from 'react'; function AdminPanel() { return (<div className="text-center mt-5"><h2>Admin Panel (View/Delete/Edit Events)</h2></div>); } export default AdminPanel;

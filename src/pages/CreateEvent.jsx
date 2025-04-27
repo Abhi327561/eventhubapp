@@ -1,0 +1,1 @@
+import React from 'react'; function CreateEvent() { return (<div className="text-center mt-5"><h2>Create Event Page</h2></div>); } export default CreateEvent;

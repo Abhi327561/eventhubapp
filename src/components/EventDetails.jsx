@@ -1,0 +1,1 @@
+import React from 'react'; function EventDetails({ event }) { if (!event) return <div>No Event Found</div>; return (<div><h2>{event.title}</h2><p>{event.description}</p></div>); } export default EventDetails;

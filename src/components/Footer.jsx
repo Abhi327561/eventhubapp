@@ -1,0 +1,1 @@
+import React from 'react'; function Footer() { return (<footer className="bg-dark text-light py-4 mt-5"><div className="container text-center"><small>&copy; 2025 GoMingle | Privacy | Terms</small></div></footer>); } export default Footer;

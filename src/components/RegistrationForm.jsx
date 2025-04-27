@@ -1,0 +1,1 @@
+import React from 'react'; function RegistrationForm() { return (<div className="text-center mt-5"><h2>Registration Form Page</h2></div>); } export default RegistrationForm;

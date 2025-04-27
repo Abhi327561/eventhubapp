@@ -1,0 +1,1 @@
+import React from 'react'; function EditEvent() { return (<div className="text-center mt-5"><h2>Edit Event Page</h2></div>); } export default EditEvent;

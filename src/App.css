@@ -1,0 +1,13 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  background-color: #f8f9fa;
+}
+.navbar {
+  background-color: #ffffff;
+}
+footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
