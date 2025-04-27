@@ -1,0 +1,1 @@
+export default function LoginPage() { return <div className='text-center mt-5'>Login Page</div>; }

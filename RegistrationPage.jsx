@@ -1,0 +1,1 @@
+export default function RegistrationPage() { return <div className='text-center mt-5'>Registration Page</div>; }
